@@ -1,5 +1,4 @@
-# Template Project
+# Catan Border-Tiles
 
-This is a template for a project.
+Border-Tiles for the old version of Catan
 
-This README.md is hosted on [it's own GitHub Repository.](https://github.com/JannisElef/project-template)
